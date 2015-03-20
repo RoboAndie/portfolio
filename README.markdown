@@ -52,7 +52,7 @@ If you see something different, visit [RailsInstaller](http://railsinstaller.org
 
 You should also download and install [Sublime Text 2](http://www.sublimetext.com/2) (they offer a free trial).
 
-### Navigating with the Command Line
+### Navigating with the Command Lineiiinoigenaoi
 
 - `pwd` Display your current location
 - `ls` List the contents of the current folder
